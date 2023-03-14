@@ -9,10 +9,10 @@
 //  Three 2's =>  200 points
 //  One   1   =>  100 points
 //  One   5   =>   50 point
-// A single die can only be counted once in each roll. For example, a given "5" can only count as part of a triplet (contributing to the 500 points) or as a single 50 points, but not both in the same roll.
+// A single die can only be counted once in each roll. For example, a given "5" can only count as part of a triplet 
+// (contributing to the 500 points) or as a single 50 points, but not both in the same roll.
 
 // Example scoring
-
 //  Throw       Score
 //  ---------   ------------------
 //  5 1 3 4 1   250:  50 (for the 5) + 2 * 100 (for the 1s)
